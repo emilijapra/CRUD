@@ -15,8 +15,8 @@
 <body>
     <div class="container">
         <div class="row">
-            <div class="col-0"></div>
-                <div class="col-0 border col-5  mt-4">
+            <div class="col-12"></div>
+                <div class="col-12 border col-12  mt-4">
                     <div class="row">
                         <div class="col-7">
                             <h1>
